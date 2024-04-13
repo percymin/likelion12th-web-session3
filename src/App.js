@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          브랜치 생성
+          브랜치 생성1
         </a>
       </header>
     </div>
