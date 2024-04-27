@@ -1,0 +1,10 @@
+.highlight {
+    color: #ff6600;
+    font-weight: bold;
+}
+
+p {
+    color: #666666;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
